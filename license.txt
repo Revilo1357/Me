@@ -1,11 +1,11 @@
 Model Information:
-* title:	UFO
-* source:	https://sketchfab.com/3d-models/ufo-f7ac46de718a444384a73e953d49997c
-* author:	Graphfun (https://sketchfab.com/the_3d_animate_guy)
+* title:	Desert Dragon
+* source:	https://sketchfab.com/3d-models/desert-dragon-d826b1a0cb2b4128a7307d0cd06d967a
+* author:	Aiden Vang (https://sketchfab.com/vang807)
 
 Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "UFO" (https://sketchfab.com/3d-models/ufo-f7ac46de718a444384a73e953d49997c) by Graphfun (https://sketchfab.com/the_3d_animate_guy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Desert Dragon" (https://sketchfab.com/3d-models/desert-dragon-d826b1a0cb2b4128a7307d0cd06d967a) by Aiden Vang (https://sketchfab.com/vang807) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
